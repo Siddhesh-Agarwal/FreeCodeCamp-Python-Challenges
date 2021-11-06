@@ -25,5 +25,7 @@ def arithmetic_arranger(problems, show_results=False):
         if show_results:
             result = str(eval(problem))
             arranged_problems[3] += " " * (size - len(result)) + result + "    "
+        
+    arranged_problems = [sol.rstrip() for sol in arranged_problems]  # remove trailing spaces
 
     return str('\n'.join(arranged_problems))
