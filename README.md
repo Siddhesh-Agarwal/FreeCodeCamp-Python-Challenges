@@ -6,3 +6,4 @@ _________________
 
 1. [Arithmetic Formatter](https://github.com/Siddhesh-Agarwal/FreeCodeCamp-Python-Challenges/tree/main/Arithmetic-Formatter)
 2. [Time Calculator](https://github.com/Siddhesh-Agarwal/FreeCodeCamp-Python-Challenges/tree/main/Time-Calculator)
+3. [Budget App](https://github.com/Siddhesh-Agarwal/FreeCodeCamp-Python-Challenges/tree/main/Budget-App)
