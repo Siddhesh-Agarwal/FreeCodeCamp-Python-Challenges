@@ -8,3 +8,4 @@ _________________
 2. [Time Calculator](https://github.com/Siddhesh-Agarwal/FreeCodeCamp-Python-Challenges/tree/main/Time-Calculator)
 3. [Budget App](https://github.com/Siddhesh-Agarwal/FreeCodeCamp-Python-Challenges/tree/main/Budget-App)
 4. [Polygon Area Calculator](https://github.com/Siddhesh-Agarwal/FreeCodeCamp-Python-Challenges/tree/main/Polygon-Area-Calculator)
+5. [Probability Calculator](https://github.com/Siddhesh-Agarwal/FreeCodeCamp-Python-Challenges/tree/main/Probability-Calculator)
